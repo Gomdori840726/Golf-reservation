@@ -6,8 +6,7 @@
 골퍼가 쉽게 골프장을 예약하는 골프장 부킹 정보를 제공 하는 **골프장 직접 부킹 정보제공 프로그램**을 개발하고 있습니다.
 
 ## 스크린 샷
-![test](https://user-images.githubusercontent.com/104139408/170844509-00db3943-dc6e-4b0a-8a14-3cae32d9b371.png)
-
+![screenshot](https://user-images.githubusercontent.com/106417384/170849814-67f2d660-916e-491d-a1fd-e18c6f84497e.png)
 골프장 직접 부킹 프로그램을 설치 한뒤 실행하면 네이버에 예약 가능한 골프장과 골프장 위치를 정보가 표시됩니다.
 
 ## 합리화                                                                                    
