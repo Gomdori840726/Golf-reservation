@@ -26,7 +26,7 @@
 
 ## 이용 방법
 파일을 다운로드 및 설치하고 사용하시면 됩니다.
-![123](https://user-images.githubusercontent.com/104139408/170845928-08fe351c-a0b1-42d3-98bc-125bc2577604.png)
+![screenshot2](https://user-images.githubusercontent.com/106417384/170850157-9f53be01-037c-4c03-8355-0be9039eaf95.png)
 위 압축파일을 다운로드하여 해체 후 설치 및 실행하면 실행 창에 예약 가능한 골프장 현황이 표시되고, 해당 폴더안에 csv파일로도 자료가 생성됩니다.
 
 ## 어떻게 동작하는가?
